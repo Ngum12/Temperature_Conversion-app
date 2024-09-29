@@ -66,15 +66,8 @@ This is the **State** class that manages the app's logic for conversion between 
 
 ## Screenshots
 
-### First View
-![First View](https://github.com/Ngum12/Temperature_Conversion-app/raw/master/First%20view.png)
-
-### Convert 30°F to C
-![Convert 30°F to C](https://github.com/Ngum12/Temperature_Conversion-app/raw/master/Convert%2030F%20to%20C.png)
-
-### Convert 30°C to F
-![Convert 30°C to F](https://github.com/Ngum12/Temperature_Conversion-app/raw/master/convert%2030%20C%20to%20F.png)
-
+### First View ### Convert 30°F to C ### Convert 30°C to F
+![First View](https://github.com/Ngum12/Temperature_Conversion-app/raw/master/First%20view.png) ![Convert 30°F to C](https://github.com/Ngum12/Temperature_Conversion-app/raw/master/Convert%2030F%20to%20C.png) ![Convert 30°C to F](https://github.com/Ngum12/Temperature_Conversion-app/raw/master/convert%2030%20C%20to%20F.png)
 
 ## License
 
